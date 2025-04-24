@@ -1,0 +1,8 @@
+1 Data Preprocessing, 10 1
+2 Model Training, 15 2
+3 Hyperparameter Tuning, 8 3
+4 Inference, 5 4
+5 Validation, 12 2
+6 Transfer Learning, 20 1
+7 Feature Engineering, 7 3
+8 Batch Processing, 9 5
