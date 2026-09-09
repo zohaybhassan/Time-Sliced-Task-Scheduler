@@ -7,3 +7,5 @@ Open `momomomo.sln` in Visual Studio to build the project. A sample task list is
 Each task-list line uses the format `<id> <task type>, <computation time> <priority>`.
 
 Lower numeric priority values are dequeued first.
+
+The base time slice is three units and increases adaptively after repeated scheduling.
